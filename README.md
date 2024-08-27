@@ -6,21 +6,21 @@ The course was designed with a strong emphasis on hands-on learning, featuring s
 
 These are the courses that are part of this certificate: 
 
-1. [Intro to Cybersecurity](shocker/shocker-writeup.md) <br>
-    Skills:
+1. [Intro to Cybersecurity](Intro-To-Cybersecurity.pdf) <br>
+    Skills: logs analysis, IP addresses, network services, common protocols, hash, OSI & TCP/IP model, Wireshark
 
-2. [Linux Fundamentals](shocker/shocker-writeup.md) <br>
-    Skills: 
+2. [Linux Fundamentals](Linux-Fundamentals.pdf) <br>
+    Skills: terminal, permissions, linux commands, text manipulation, bash scripts, network troubleshooting, network configuring, package management
 
-3. [Network Research](shocker/shocker-writeup.md) <br>
-    Skills:
+3. [Network Research](Network-Research.pdf) <br>
+    Skills: virtualization, file manipulation commands, scripts and automation, protocols and network services, scanning, filtering and parsing, firewall
 
-4. [Python Fundamentals](shocker/shocker-writeup.md) <br>
-    Skills: 
+4. [Python Fundamentals](Python-Fundamentals.pdf) <br>
+    Skills: syntax, conditions, loops, functions, reading and writing into files, extracting data, OS module
 
-5. [Penetration Testing](shocker/shocker-writeup.md) <br>
-    Skills: 
+5. [Penetration Testing](Penetration-Testing.pdf) <br>
+    Skills: enumeration, exploitation, payloads, post-exploitation, web app security, Metasploit
 
-6. [SOC Analyst](shocker/shocker-writeup.md) <br>
-    Skills: 
+6. [SOC Analyst](SOC-Analyst.pdf) <br>
+    Skills: Active Directory Domain Service, Firewall installation and rules configuration, IDS/IPS, ELK, log analysis, incident response
 
