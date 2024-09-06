@@ -6,7 +6,7 @@ The course was designed with a strong emphasis on hands-on learning, featuring s
 
 These are the courses that are part of this certificate: 
 
-1. [Intro to Cybersecurity](Intro-To-Cybersecurity.pdf) <br>
+1. [Intro to Cybersecurity](Intro-to-Cybersecurity.pdf) <br>
     Skills: logs analysis, IP addresses, network services, common protocols, hash, OSI & TCP/IP model, Wireshark
 
 2. [Linux Fundamentals](Linux-Fundamentals.pdf) <br>
